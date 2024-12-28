@@ -1,4 +1,5 @@
-#I've trying to convert list of tuples to customized dictionaries. I'm trying to divide pack owner, submitter and consumer
+#I've trying to convert list of tuples to customized dictionaries. I'm trying to divide pack owner,
+# submitter and consumer
 
 lst = [('name1', 'email1','id1','new1',11,'1','po'),
        ('name2', 'email2','id2','new2',12,'2','sub'),
