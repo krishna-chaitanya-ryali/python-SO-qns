@@ -1,0 +1,36 @@
+
+---
+
+## 🧠 How to Explain This (1-Minute Interview Script)
+
+> “This architecture supports both real-time and batch ingestion using an event-driven approach.  
+> All raw data is stored for audit and replay.
+> Data is validated and standardized before aggregation.  
+> Real-time metrics feed dashboards, while historical data supports compliance and analytics.
+> The system is scalable, fault-tolerant, and fully observable.”
+
+---
+
+## ⭐ Why Markdown Is the Best Choice
+✔ Renders cleanly on GitHub  
+✔ Looks professional  
+✔ Easy to update  
+✔ Interview-ready  
+✔ Recruiter-friendly
+
+---
+
+### ❌ What NOT to Do
+- ❌ Don’t save as `.py`
+- ❌ Don’t save as `.txt`
+- ❌ Don’t paste into comments inside code
+
+---
+
+If you want next:
+- **Whiteboard-friendly version**
+- **Cloud-agnostic vs AWS/Azure mapped version**
+- **Security & compliance layer addition**
+- **Short interview answer**
+
+Just say the word 👍
