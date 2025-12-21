@@ -1,0 +1,22 @@
+# PyCharm / IntelliJ IDEA project files
+.idea/
+
+# Python cache files
+__pycache__/
+*/__pycache__/
+
+# Specific test or temporary files
+just_a_test_file.py
+
+# Byte-compiled / optimized files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (if any)
+venv/
+.env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
